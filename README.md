@@ -3,7 +3,7 @@
 <h1 align="center">Minerica Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
-<em><h5 align="center">이 런처는 <a href="https://github.com/dscalzi/HeliosLauncher">Helios launcher</a>를 기반으로 만들어 졌습니다</h5></em>
+<em><h5 align="center">이 런처는 <a href="https://github.com/dscalzi/HeliosLauncher">Helios launcher</a>를 기반으로 한 <a href="https://github.com/djl987645/MineSquareLauncher">마인스퀘어 런처</a>를 기반으로 만들어 졌습니다</h5></em>
 
 [<p align="center"><img src="https://img.shields.io/github/actions/workflow/status/dscalzi/HeliosLauncher/build.yml?branch=master&style=for-the-badge" alt="gh actions">](https://github.com/dscalzi/HeliosLauncher/actions) [<img src="https://img.shields.io/github/downloads/dscalzi/HeliosLauncher/total.svg?style=for-the-badge" alt="downloads">](https://github.com/dscalzi/HeliosLauncher/releases) <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"  height="28px" alt="winter-is-coming"></p>
 
