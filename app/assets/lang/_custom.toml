@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "MineSquare launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/djl987645/MineSquareLauncher"
+mediaWikiURL = "https://minesquare.notion.site/ac822f0cb16c45249888f01ac44c8113"
+mediaMapURL = "http://minesquare.kr:8123/"
+mediaDiscordURL = "https://discord.gg/XYcy5KJnr4"
+mediaInstagramURL = "https://www.instagram.com/mine_square"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/djl987645/MineSquareLauncher"
+supportLink = "https://github.com/djl987645/MineSquareLauncher/issues"
+
+[ejs.welcome]
+welcomeHeader = "WELCOME TO MineSquare!"
+welcomeDescription = "대학교 마인크래프트 서버인 마인스퀘어에 어서오세요!"
+welcomeDescCTA = "마크에서도 캠퍼스 라이프를 즐기세요!"
