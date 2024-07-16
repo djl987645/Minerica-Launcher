@@ -13,15 +13,15 @@
     <pubDate>Sun, 12 May 2024 03:19:00 +0900</pubDate>
     <lastBuildDate>Thu,
       09 May 2024 12:48:00 +0900</lastBuildDate>
-    <generator>MineSquare Server</generator>
+    <generator>Minerica Server</generator>
     <link>
       https://discord.gg/e9DmduXy</link>
     <atom:link rel="self" type="application/rss+xml"
-      href="https://raw.githubusercontent.com/djl987645/MineSquareLauncher/master/rss.rss" />
+      href="https://raw.githubusercontent.com/djl987645/Minerica-Launcher/master/rss.rss" />
 
     <!-- new-item 스니펫으로 아이템 생성하기-->
      <item>
-        <title>마인스퀘어 2024.5.13. 패치노트</title>
+      <title>마인에리카 2024.5.13. 패치노트</title>
         <pubDate>Mon, 13 May 2024 03:32:00 +0900</pubDate>
         <link>https://discord.com/channels/1217041766847348776/1239284159000608850/1239284159000608850</link>
         <dc:creator>비유</dc:creator>
@@ -45,9 +45,10 @@
         </content:encoded>
         <slash:comments>0</slash:comments>
      </item>
-     <!-- 각 기사 구분 줄 ==========================================================================================================================================================================================================-->
+    <!-- 각 기사 구분 줄
+    ==========================================================================================================================================================================================================-->
     <item>
-      <title>마인스퀘어 2024.5.12. 패치노트</title>
+      <title>마인에리카 2024.5.12. 패치노트</title>
       <pubDate>Sun, 12 May 2024 03:19:00 +0900</pubDate>
       <link>https://discord.com/channels/1217041766847348776/1233436867844898856/threads/1238918461355196530</link>
       <guid isPermaLink="false">2</guid>
@@ -89,7 +90,7 @@
     <!-- 각 기사 구분 줄
     ==========================================================================================================================================================================================================-->
     <item>
-      <title>마인스퀘어 2024.5.9. 패치노트</title>
+      <title>마인에리카 2024.5.9. 패치노트</title>
       <pubDate>Thu, 09 May 2024 12:48:00 +0900</pubDate>
       <link>https://discord.com/channels/1217041766847348776/1237974346123710526</link>
       <guid isPermaLink="false">1</guid>

@@ -1,23 +1,23 @@
 {
   "version": "0.0.6",
-  "rss": "https://raw.githubusercontent.com/djl987645/MineSquare-Launcher-Bot/main/rss.rss",
+  "rss": "https://raw.githubusercontent.com/djl987645/Minerica-Launcher-Bot/main/rss.rss",
   "discord": {
     "clientId": "1238436046631469068",
-    "smallImageText": "마인스퀘어 플레이 중",
+    "smallImageText": "마인에리카 플레이 중",
     "smallImageKey": "https://i.imgur.com/uN7dnqd.jpeg"
   },
   "servers": [
     {
-      "id": "MineSquare-1.20.4",
-      "name": "MineSquare",
-      "description": "대학교 마인크래프트 서버, MineSquare입니다",
+      "id": "Minerica-1.20.4",
+      "name": "Minerica",
+      "description": "대학교 마인크래프트 서버, Minerica입니다",
       "icon": "https://i.imgur.com/uN7dnqd.jpeg",
       "version": "1.0.0",
       "address": "158.179.193.213:25565",
       "minecraftVersion": "1.20.4",
       "discord": {
-        "shortId": "마인스퀘어",
-        "largeImageText": "마인스퀘어 플레이 중",
+        "shortId": "마인에리카",
+        "largeImageText": "마인에리카 플레이 중",
         "largeImageKey": "https://i.imgur.com/uN7dnqd.jpeg"
       },
       "mainServer": true,
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2849,
                 "MD5": "64dd56c36c6489ad71753dd5f8d33d41",
-                "url": "https://raw.githubusercontent.com/djl987645/MineSquareLauncher/master/json/1.20.4-fabric-0.15.10.json"
+                "url": "https://raw.githubusercontent.com/djl987645/Minerica-Launcher/master/json/1.20.4-fabric-0.15.10.json"
               }
             },
             {
@@ -216,11 +216,11 @@
           }
         },
         {
-          "id": "minesquare config file",
-          "name": "minesquare config file",
+          "id": "minerica config file",
+          "name": "minerica config file",
           "type": "File",
           "artifact": {
-            "url": "https://raw.githubusercontent.com/djl987645/MineSquareLauncher/master/option/options.txt",
+            "url": "https://raw.githubusercontent.com/djl987645/Minerica-Launcher/master/option/options.txt",
             "path": "options.txt"
           }
         },
@@ -229,7 +229,7 @@
           "name": "shader config file",
           "type": "File",
           "artifact": {
-            "url": "https://raw.githubusercontent.com/djl987645/MineSquareLauncher/master/option/optionsshaders.txt",
+            "url": "https://raw.githubusercontent.com/djl987645/Minerica-Launcher/master/option/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }
         }
